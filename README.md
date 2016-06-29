@@ -1,2 +1,6 @@
-####空闲写的小游戏
-扑克牌、圣诞、七夕、老虎机
+##Notice
+To write some h5 games in the spare time. Which contains 2 learn lesson for [imocc](http://www.imooc.com/u/290139/courses?sort=publish)
+
+
+
+
